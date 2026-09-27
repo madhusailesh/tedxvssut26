@@ -1,4 +1,4 @@
-# TEDxVSSUT
+# TEDxVSSUT26
 
 > **Ideas worth spreading. Experiences worth remembering.**
 
@@ -6,7 +6,7 @@ Official website and digital ticketing platform for **TEDxVSSUT**, designed to p
 
 ---
 
-## ✨ About the Project
+##  About the Project
 
 The TEDxVSSUT website is a modern, responsive, and full-stack event platform built for the TEDxVSSUT event.
 
