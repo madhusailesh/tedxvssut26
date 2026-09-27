@@ -4,7 +4,7 @@ import { useState } from "react";
 import Link from "next/link";
 import type { Metadata } from "next";
 import "./globals.css";
-
+import Loader from "@/components/Loader";
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -95,7 +95,7 @@ export default function RootLayout({
             </div>
           )}
         </nav>
-
+<Loader />
         {/* Page Content */}
         {children}
 
