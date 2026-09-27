@@ -1,4 +1,4 @@
-# TEDxVSSUT
+# TEDxVSSUT26
 
 > **Ideas worth spreading. Experiences worth remembering.**
 
